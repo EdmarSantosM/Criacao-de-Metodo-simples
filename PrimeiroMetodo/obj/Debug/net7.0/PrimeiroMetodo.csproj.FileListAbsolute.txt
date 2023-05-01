@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\bin\Debug\net7.0\PrimeiroMetodo.exe
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\bin\Debug\net7.0\PrimeiroMetodo.deps.json
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\bin\Debug\net7.0\PrimeiroMetodo.runtimeconfig.json
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\bin\Debug\net7.0\PrimeiroMetodo.dll
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\bin\Debug\net7.0\PrimeiroMetodo.pdb
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\PrimeiroMetodo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\PrimeiroMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\PrimeiroMetodo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\PrimeiroMetodo.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\PrimeiroMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\PrimeiroMetodo.dll
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\refint\PrimeiroMetodo.dll
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\PrimeiroMetodo.pdb
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\PrimeiroMetodo.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\vsCode\Criacao-de-Metodo-simples\PrimeiroMetodo\obj\Debug\net7.0\ref\PrimeiroMetodo.dll
